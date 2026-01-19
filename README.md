@@ -32,5 +32,5 @@ The work emphasizes:
 
 ## Contents
 
-- Technical project record (Markdown / PDF)
+- Technical project record (Markdown)
 - Supporting figures referenced in the document
