@@ -1,4 +1,5 @@
-# Discrete-Time PID Control of a Mass–Spring–Damper System with Embedded Implementation
+# End-to-End Control Across Abstraction Layers in a Mass–Spring–Damper System
+
 This document is a structured presentation of project notes, experiments, and observations recorded during a self-directed engineering effort and later organized for clarity and reference.
 
 ## Project Context
