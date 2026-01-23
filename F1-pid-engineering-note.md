@@ -1,7 +1,7 @@
 # End-to-End Control Across Abstraction Layers in a Mass–Spring–Damper System
 
 *Author: Percival Segui*\
-*Prepared as an independent technical reference.*
+*Prepared as an independent technical reference*.
 
 *This document is a structured presentation of engineering artifacts, experiments, and observations recorded during a self-directed engineering effort and later organized for clarity and reference.*
 
