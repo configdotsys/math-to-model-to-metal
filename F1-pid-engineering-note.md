@@ -1615,7 +1615,7 @@ Across all signals, the response degrades smoothly rather than abruptly. Saturat
 **Phase 1A Performance Metrics (Embedded Execution)**
 
 * Rise time (90%): 1.60 s
-* Settling time (2%): $2.57 s
+* Settling time (2%): 2.57 s
 * Peak value: 1.015
 * Percent overshoot: 1.49
 * Steady-state error: -2.08 x $10^{-4}$
@@ -1731,11 +1731,12 @@ The Phase 1B configuration is identical to Phase 1A except for the introduction 
  $$
  
  With $K_s = 1$, $x_ref = 1$, and $d = -0.3$, the required steady-state control effort is
+ 
  $$
  u = K_s x - d = 1 - (-0.3) = 1.3,
  $$
  
- which remains below the saturation limit of ±1.5. This ensures the disturbance can be fully rejected at steady state while still requiring integral action to supply the additional control effort.
+which remains below the saturation limit of ±1.5. This ensures the disturbance can be fully rejected at steady state while still requiring integral action to supply the additional control effort.
 
  The -0.5 N disturbance was selected to push the controller close to its steady-state actuator limit (1.5), allowing evaluation of disturbance rejection behavior near saturation.
 
