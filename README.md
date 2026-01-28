@@ -1,4 +1,4 @@
-# F1 — PID Control of a Mass–Spring–Damper System
+# F1 – PID Control of a Mass–Spring–Damper System
 
 **Project Status:** COMPLETE
 
@@ -22,11 +22,11 @@ The focus is not on controller optimization or novel methods, but on understandi
 
 The work emphasizes:
 
-- traceability from continuous-time ODEs to discrete-time implementation
-- consistency between simulation and embedded execution
-- explicit treatment of actuator saturation, disturbances, and measurement noise
-- deterministic control-loop structure suitable for embedded systems
-- interpretation of observed behavior rather than performance optimization
+* traceability from continuous-time ODEs to discrete-time implementation
+* consistency between simulation and embedded execution
+* explicit treatment of actuator saturation, disturbances, and measurement noise
+* deterministic control-loop structure suitable for embedded systems
+* interpretation of observed behavior rather than performance optimization
 
 ---
 
