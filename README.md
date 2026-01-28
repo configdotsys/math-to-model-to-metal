@@ -8,7 +8,7 @@ The project explores discrete-time PID control applied to a canonical mass–spr
 
 ---
 
-## Document Scope and Intent
+### Document Scope and Intent
 
 This document is written as an engineering note / technical project record, intended to preserve reasoning, decisions, experiments, and observations developed throughout the project.
 
@@ -16,7 +16,7 @@ The focus is not on controller optimization or novel methods, but on understandi
 
 ---
 
-## Project Emphasis
+### Project Emphasis
 
 The work emphasizes:
 
@@ -28,7 +28,13 @@ The work emphasizes:
 
 ---
 
-## Contents
+### Contents
 
 - Technical project record (Markdown)
 - Supporting figures referenced in the document
+
+---
+
+*Author: Percival Segui*
+
+*Independent engineering project record*
