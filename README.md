@@ -14,7 +14,7 @@ This document is written as an engineering note / technical project record, inte
 
 The focus is not on controller optimization or novel methods, but on understanding how classical control concepts translate from continuous-time models to discrete-time embedded execution under realistic non-idealities.
 
-[Read the document](./[unified-model-feedback-stability.md])
+[Read the document](./[math-to-model-to-metal.md])
 
 ---
 
