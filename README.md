@@ -10,11 +10,11 @@ The project explores discrete-time PID control applied to a canonical mass–spr
 
 ## Document Scope and Intent
 
-This document is **not** a white paper, academic publication, or tutorial.
-
-It is written as an **engineering note / technical project record**, intended to preserve reasoning, decisions, experiments, and observations developed throughout the project.
+This document is written as an engineering note / technical project record, intended to preserve reasoning, decisions, experiments, and observations developed throughout the project.
 
 The focus is not on controller optimization or novel methods, but on understanding how classical control concepts translate from continuous-time models to discrete-time embedded execution under realistic non-idealities.
+
+[Read the document](./[unified-model-feedback-stability.md])
 
 ---
 
