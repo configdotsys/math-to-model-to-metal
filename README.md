@@ -1,4 +1,4 @@
-# F1 – PID Control of a Mass–Spring–Damper System
+# End-to-End Control Across Abstraction Layers in a Mass–Spring–Damper System
 
 **Project Status:** COMPLETE
 
